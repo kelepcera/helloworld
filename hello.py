@@ -8,3 +8,4 @@ if __name__=="__main__":
     hello("rui")
     hello("baby")
     hello("amend")
+    hello("For testing branch")
